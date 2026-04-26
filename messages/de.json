@@ -5,5 +5,6 @@
   "example_message": "Willkommen in deiner i18n-App.",
   "language_label": "Sprache",
   "current_locale": "Aktuelle Sprache: {locale}",
-  "learn_router": "Paraglide JS lernen"
+  "learn_router": "Paraglide JS lernen",
+  "home_hero_title": "Einfach starten, schnell ausliefern."
 }
